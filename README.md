@@ -20,10 +20,10 @@
  <a href="https://www.linkedin.com/in/andressa-n%C3%A1poles-de-oliveira-b458a5219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-# ![snake gif](https://github.com/Mautts/Mautts/blob/output/github-contribution-grid-snake.gif)
+# ![snake gif](https://github.com/Mauttinha/Mauttinha/blob/output/github-contribution-grid-snake.gif)
 
  <div align="center"> 
    <a href="https://github.com/Mautts"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mautts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautts&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauttinha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauttinha&layout=compact&langs_count=7&theme=dark"/>
 </div><Br>
